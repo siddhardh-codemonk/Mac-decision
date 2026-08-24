@@ -84,4 +84,4 @@ For questions or support, please open an issue on the repository.
 
 ---
 
-*Mac-Decision: Making the right choice, one comparison at a time. 🍎*
+*Mac-Decision: Making the right choice, one comparison at a time. 🍎* No

@@ -53,7 +53,7 @@ export async function onRequestPost(context) {
       authorization: `Bearer ${env.GROQ_API_KEY}`, // set via `wrangler secret` / Pages env vars
     },
     body: JSON.stringify({
-      model: "llama-3.3-70b-versatile",
+      model: "openai/gpt-oss-120b",
       temperature: 0.6,
       max_tokens: 300,
       messages: [
